@@ -3,9 +3,14 @@
 
 淘宝链接(Taobao Link) https://item.taobao.com/item.htm?id=585564917392
 
-支持QQ群： 664662333 
-支持及售后email： 
+产品支持论坛(Support forum): https://bbs.wenyucx.com
+
+支持QQ群 (Support QQ group)： 664662333 
+
+支持及售后email (Support Email)： 
+
 代理销售洽谈：
 
-Support QQ group： 664662333 
-Support email:
+产品介绍：
+
+视频展示：
