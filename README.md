@@ -3,6 +3,15 @@
 
 <img src="https://gd3.alicdn.com/imgextra/i3/361529775/O1CN01X0EwYh2M507OYsVfb_!!361529775.jpg" width="512">
 
+功率版：
+
+<img src="https://i.ibb.co/KFhcvcY/Power.jpg" width="1024">
+
+主控板：
+
+<img src="https://i.ibb.co/VYGc3JF/Controller.jpg" width="1024">
+
+
 淘宝链接(Taobao Link) https://item.taobao.com/item.htm?id=585564917392
 
 产品支持论坛(Support forum): https://bbs.wenyucx.com
