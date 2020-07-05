@@ -3,16 +3,16 @@
 
 <img src="https://gd3.alicdn.com/imgextra/i3/361529775/O1CN01X0EwYh2M507OYsVfb_!!361529775.jpg" width="512">
 
-功率版V4：
+
+<a href="https://github.com/WenyuCreative/wy-815d-v4/wiki/WY-815D-V4-Power-Board">功率版V4：</a>
 
 <img src="https://i.ibb.co/KFhcvcY/Power.jpg" width="1024">
 
-
-主控板V4-Black:
+<a href="https://github.com/WenyuCreative/wy-815d-v4/wiki/WY-815D-V4-Controller-Board">主控板V4-Black:</a>
 
 <img src="https://i.ibb.co/jrr24gy/Controller2.jpg" width="1024">
 
-主控板V4-Green：
+<a href="https://github.com/WenyuCreative/wy-815d-v4/wiki/WY-815D-V4-Controller-Board">主控板V4-Green：</a>
 
 <img src="https://i.ibb.co/VYGc3JF/Controller.jpg" width="1024">
 
