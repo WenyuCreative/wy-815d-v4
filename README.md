@@ -19,6 +19,8 @@
 <a href="https://github.com/WenyuCreative/wy-815d-v4/wiki/bad-relay-problem-solution">继电器隔离不严导致跳空开或者烧管子的处理
 </a>
 
+<a href="https://github.com/WenyuCreative/wy-815d-v4/wiki">常见故障检修</a>
+
 淘宝链接(Taobao Link) https://item.taobao.com/item.htm?id=585564917392
 
 产品支持论坛(Support forum): https://bbs.wenyucx.com
