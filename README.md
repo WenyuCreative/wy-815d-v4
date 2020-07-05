@@ -16,7 +16,8 @@
 
 <img src="https://i.ibb.co/VYGc3JF/Controller.jpg" width="1024">
 
-
+<a href="https://github.com/WenyuCreative/wy-815d-v4/wiki/bad-relay-problem-solution">继电器隔离不严导致跳空开或者烧管子的处理
+</a>
 
 淘宝链接(Taobao Link) https://item.taobao.com/item.htm?id=585564917392
 
